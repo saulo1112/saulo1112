@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=AI+Engineer;GIS+Developer;Web+Designer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=AI+Engineer;GIS+Developer;Web+Design" alt="Typing SVG" />
 
 </div>
 
@@ -53,7 +53,7 @@ Eager to contribute to society through technology and software, mixing environme
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulo1112&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saulo1112&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
