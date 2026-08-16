@@ -6,28 +6,28 @@
 
 ---
 
-### 👋 About me
+### About me
 
-I'm Saulo — an Environmental Engineer with a deep pull toward building things: software, systems, models, interfaces. I bring an engineer's eye for how real-world systems actually behave into the way I design and build technology.
+I'm Saulo, an Environmental Engineer with a pull toward building things: software, systems, models, interfaces. I bring an engineer's eye for how real-world systems behave into the way I design and build technology.
 
-I move naturally between disciplines — working with spatial data, training models, designing interfaces, shipping backend systems — treating each one as another lens for understanding the same real-world problem.
+I move between disciplines. Spatial data, model training, interface design, backend systems. Each one is a different lens on the same kind of problem.
 
-📍 Based in Cali, Colombia — open to remote work
-🎓 Environmental Engineer, currently specializing in Artificial Intelligence
-🌱 Always building, always learning
-
----
-
-### 🧠 Focus areas
-
-- **GIS & Geospatial Engineering** — spatial databases, remote sensing, terrain and environmental data, built on a foundation of real domain expertise, not just tooling.
-- **Machine Learning & Deep Learning** — applied models for real, messy data: prediction, computer vision, and pattern recognition grounded in the systems I actually understand.
-- **Web Design & Development** — building interfaces that are as considered as the systems behind them, from backend to the pixels people interact with.
-- **Applied AI** — tying it all together: using AI as a tool to make sense of complex, real-world systems, not as an end in itself.
+Based in Cali, Colombia, open to remote work.
+Environmental Engineer with a specialization in Artificial Intelligence.
+Always building, always learning.
 
 ---
 
-### 🛠 Core skills
+### Focus areas
+
+- **GIS & Geospatial Engineering.** Spatial databases, remote sensing, terrain and environmental data, built on real domain expertise rather than just the tooling.
+- **Machine Learning & Deep Learning.** Applied models for messy, real data: prediction, computer vision, pattern recognition.
+- **Web Design & Development.** Interfaces built with the same care as the systems behind them, from backend to what people actually touch.
+- **Applied AI.** Using AI to make sense of complex, real-world systems rather than as an end in itself.
+
+---
+
+### Core skills
 
 <div align="center">
 
@@ -35,25 +35,36 @@ I move naturally between disciplines — working with spatial data, training mod
 
 </div>
 
-**Geospatial** — PostGIS · Google Earth Engine · QGIS · ArcGIS Pro
-**AI / ML** — PyTorch · scikit-learn · OpenCV
-**Backend** — FastAPI · Flask · Node.js
-**Web** — TypeScript · Astro · JavaScript
+**Geospatial:** PostGIS, Google Earth Engine, QGIS, ArcGIS Pro
+**AI / ML:** PyTorch, scikit-learn, OpenCV
+**Backend:** FastAPI, Flask, Node.js
+**Web:** TypeScript, Astro, JavaScript
+**AI tools:** Claude Code, GPT, Gemini, and other LLMs as part of the daily workflow, not a novelty
 
 ---
 
-### 🌱 Currently
+### Currently
 
 Eager to contribute to society through technology and software, mixing environmental domain knowledge, design, and systemic thinking.
 
 ---
 
-### 📫 Let's connect
+### Languages
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulo1112&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+### Let's connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saulo1112.github.io/Portfolio-SQ/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulo-qui%C3%B1ones-g%C3%B3ngora-304680262/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saulo.q1112@gmail.com)
 
 </div>
