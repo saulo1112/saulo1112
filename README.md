@@ -12,7 +12,7 @@ I'm Saulo, an Environmental Engineer with a pull toward building things: softwar
 
 I move between disciplines. Spatial data, model training, interface design, backend systems. Each one is a different lens on the same kind of problem.
 
-Based in Cali, Colombia, open to remote work.
+Based in Cali, Colombia.
 Environmental Engineer with a specialization in Artificial Intelligence.
 Always building, always learning.
 
